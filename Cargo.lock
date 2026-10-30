@@ -446,7 +446,7 @@ checksum = "0c790de23124f9ab44544d7ac05d60440adc586479ce501c1d6d7da3cd8c9cf5"
 
 [[package]]
 name = "slk-cargo"
-version = "4.5.6"
+version = "4.5.7"
 dependencies = [
  "serde_json",
  "slk-state-core",
@@ -457,8 +457,8 @@ dependencies = [
 
 [[package]]
 name = "slk-state-core"
-version = "4.5.6"
-source = "git+https://github.com/DWG7318/slk-state-core.git?rev=65ecc00b43d73da305e4809789ff709c39b183de#65ecc00b43d73da305e4809789ff709c39b183de"
+version = "4.5.7"
+source = "git+https://github.com/DWG7318/slk-state-core.git?rev=743a6a32e3c2f5edd2b4d497b15764c6e0ee3712#743a6a32e3c2f5edd2b4d497b15764c6e0ee3712"
 dependencies = [
  "directories",
  "quick-xml",
